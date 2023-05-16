@@ -1,0 +1,11 @@
+C:\Users\jkazi\source\repos\NoteTaker\NoteTaker\bin\Debug\NoteTaker.exe.config
+C:\Users\jkazi\source\repos\NoteTaker\NoteTaker\bin\Debug\NoteTaker.exe
+C:\Users\jkazi\source\repos\NoteTaker\NoteTaker\bin\Debug\NoteTaker.pdb
+C:\Users\jkazi\source\repos\NoteTaker\NoteTaker\obj\Debug\NoteTaker.csproj.AssemblyReference.cache
+C:\Users\jkazi\source\repos\NoteTaker\NoteTaker\obj\Debug\NoteTaker.csproj.SuggestedBindingRedirects.cache
+C:\Users\jkazi\source\repos\NoteTaker\NoteTaker\obj\Debug\NoteTaker.Form1.resources
+C:\Users\jkazi\source\repos\NoteTaker\NoteTaker\obj\Debug\NoteTaker.Properties.Resources.resources
+C:\Users\jkazi\source\repos\NoteTaker\NoteTaker\obj\Debug\NoteTaker.csproj.GenerateResource.cache
+C:\Users\jkazi\source\repos\NoteTaker\NoteTaker\obj\Debug\NoteTaker.csproj.CoreCompileInputs.cache
+C:\Users\jkazi\source\repos\NoteTaker\NoteTaker\obj\Debug\NoteTaker.exe
+C:\Users\jkazi\source\repos\NoteTaker\NoteTaker\obj\Debug\NoteTaker.pdb
